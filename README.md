@@ -102,6 +102,12 @@
 
 <br/>  
 
+### Snake Contributions
+<div align="center">
+![snake gif](https://github.com/nikepitchaya/nikepitchaya/blob/output/github-contribution-grid-snake.gif)
+</div>
+<br/>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=nikepitchaya&&style=flat-square" align="center" />
 </div>  
