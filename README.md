@@ -104,7 +104,7 @@
 
 ### Snake Contributions
 <div align="center">
-![snake gif](https://github.com/nikepitchaya/nikepitchaya/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/nikepitchaya/nikepitchaya/output/github-contribution-grid-snake.gif)
 </div>
 <br/>
 
