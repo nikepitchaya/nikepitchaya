@@ -3,7 +3,7 @@
 </div>  
 
 ## **<div align="center">Hi pumpkin 😻</div>**  
-- ❓ Ask me about How to be coding to get bugged  
+- ❓ Ask me about How to be a good "Pro Gamer"
 <br/>  
 
 <div align="center">
